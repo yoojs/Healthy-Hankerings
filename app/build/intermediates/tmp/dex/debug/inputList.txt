@@ -1,0 +1,5 @@
+/Users/james/AndroidStudioProjects/HealthyHankerings/app/build/intermediates/classes/debug
+/Users/james/AndroidStudioProjects/HealthyHankerings/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-a164dd1ea4b535525d5a276929214c81593f66db.jar
+/Users/james/AndroidStudioProjects/HealthyHankerings/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a172a223be219df84533970c1a6b4e8217c23d09.jar
+/Users/james/AndroidStudioProjects/HealthyHankerings/app/build/intermediates/pre-dexed/debug/classes-5fc36c94a7bafab80c438097690ca063e43d4d0d.jar
+/Users/james/AndroidStudioProjects/HealthyHankerings/app/build/intermediates/pre-dexed/debug/classes-eb277e5e15471aa62acdc36c000d3ce592d1a16a.jar
